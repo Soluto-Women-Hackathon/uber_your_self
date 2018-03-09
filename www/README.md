@@ -1,8 +1,15 @@
+# example
 
-**Run Frontend**
+> A Vue.js project
 
-- install node 8
+## Build Setup
 
-- install webpack
+``` bash
+# install dependencies
+npm install
 
-to compile js file, run `npx webpack`
+# serve with hot reload at localhost:8080
+npm run dev
+
+```
+
