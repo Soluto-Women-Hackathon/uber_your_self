@@ -1,0 +1,8 @@
+[
+"Gardening",
+"Teaching",
+"Fixing",
+"Building",
+"Painting",
+"Sitting"
+]

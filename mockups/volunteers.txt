@@ -1,0 +1,7 @@
+[
+{"user": {"name": "Malcolm Reynolds"}, "area" : "Tel Aviv", "type": "Fixing", "ww": ["Kids","Seniors"],"time": {"hours": 10, "repeat": "once"}, "desc": "I can fix computers"},
+{"user": {"name": "Simon Tam"}, "area": "Center", "type": "Teaching", "ww": ["Grownups"], "time": {"hours": 1, "repeat": "weekly"}, "desc": "teach guitar lessons"},
+{"user": {"name": "Malcolm Reynolds"}, "area": "Tel Aviv", "type": "Gardening", "ww": [], "time": {"hours": 20, "repeat": "once"}, "desc" : "weed a garden"},
+{"user": {"name": "River Tam"}, "area": "Tel Aviv", "type": "Gardening", "ww": ["Kids"], "time": {"hours": 10, "repeat": "monthly"}, "desc": "plant a herb garden"},
+{"user": {"name": "Zoe Washburne"}, "area": "Center", "type": "Gardening", "ww": ["Grownups"], "time": {"hours": 5, "repeat": "once"},"desc": "weed a garden"}
+]
